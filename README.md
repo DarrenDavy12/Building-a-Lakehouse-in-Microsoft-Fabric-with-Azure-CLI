@@ -1,5 +1,3 @@
-Project 1: Building a Lakehouse in Microsoft Fabric with Azure CLIBelow is a detailed, professional step-by-step guide formatted in README.md markdown for your GitHub repository. It’s tailored to showcase your skills as an Azure Data Engineer, focusing on building a lakehouse in Microsoft Fabric using Azure CLI where possible. Each step includes a clear explanation, the "why" behind it, and placeholders for screenshots to make it visually appealing and employer-ready. The guide aligns with Azure Data Engineer objectives like designing and implementing data storage, data ingestion, transformation, and querying.
-
 ---
 
 # Project 1: Building a Lakehouse in Microsoft Fabric with Azure CLI
