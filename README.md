@@ -1,6 +1,6 @@
 ---
 
-# Project 1: Building a Lakehouse in Microsoft Fabric with Azure CLI
+# Building a Lakehouse in Microsoft Fabric with Azure CLI
 
 ## Overview
 This project demonstrates the creation of a fully functional lakehouse in Microsoft Fabric using Azure CLI and other tools. A lakehouse combines the flexibility of a data lake with the analytical capabilities of a data warehouse, leveraging the Delta Lake format for structured and unstructured data management. This project showcases key Azure Data Engineer skills, including data storage design, ingestion, transformation with Spark, and querying with SQL endpoints.
