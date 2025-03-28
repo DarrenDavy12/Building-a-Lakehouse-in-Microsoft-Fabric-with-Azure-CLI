@@ -53,8 +53,6 @@ Before starting, ensure you have the following:
    - Replace `<subscription-id>` with your Azure subscription ID (find it via `az account list`).
    - *Why*: Ensures commands target the correct subscription if you have multiple.
 
-**Screenshot**: Capture the terminal output showing successful login and subscription set.  
-*Suggested Caption*: "Azure CLI login and subscription selection."
 
 ![Image](https://github.com/user-attachments/assets/8a796af3-30ec-4072-8ecc-0e67a49283f7)
 
