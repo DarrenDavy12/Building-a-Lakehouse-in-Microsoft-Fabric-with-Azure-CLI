@@ -56,11 +56,7 @@ Before starting, ensure you have the following:
 **Screenshot**: Capture the terminal output showing successful login and subscription set.  
 *Suggested Caption*: "Azure CLI login and subscription selection."
 
-
-![Image](https://github.com/user-attachments/assets/c7c01a01-b665-488c-a056-f69c167897ae)
-
-
-![Image](https://github.com/user-attachments/assets/12184c74-3c32-47e0-baec-e91ee6ee9959)
+![Image](https://github.com/user-attachments/assets/8a796af3-30ec-4072-8ecc-0e67a49283f7)
 
 ---
 
