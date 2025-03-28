@@ -56,6 +56,9 @@ Before starting, ensure you have the following:
 **Screenshot**: Capture the terminal output showing successful login and subscription set.  
 *Suggested Caption*: "Azure CLI login and subscription selection."
 ![Image](https://github.com/user-attachments/assets/c7c01a01-b665-488c-a056-f69c167897ae)
+
+
+
 ---
 
 ### Step 2: Create a Resource Group
