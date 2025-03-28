@@ -53,6 +53,7 @@ Before starting, ensure you have the following:
    - Replace `<subscription-id>` with your Azure subscription ID (find it via `az account list`).
    - *Why*: Ensures commands target the correct subscription if you have multiple.
 
+"Azure CLI login and subscription selection"
 
 ![Image](https://github.com/user-attachments/assets/8a796af3-30ec-4072-8ecc-0e67a49283f7)
 
@@ -70,7 +71,8 @@ Before starting, ensure you have the following:
    - *Why*: Centralizes resources in a single region for performance and compliance.
 
      
-"Resource group created for lakehouse project."
+"Resource group created for lakehouse project"
+
 ![Image](https://github.com/user-attachments/assets/dfee932b-6e94-45da-a936-7d993c7a609f)
 
 
