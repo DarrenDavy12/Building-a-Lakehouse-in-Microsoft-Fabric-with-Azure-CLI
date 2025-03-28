@@ -69,8 +69,10 @@ Before starting, ensure you have the following:
    - `eastus`: Region (choose based on proximity or requirements).
    - *Why*: Centralizes resources in a single region for performance and compliance.
 
-**Screenshot**: Show the terminal output confirming the resource group creation.  
-*Suggested Caption*: "Resource group created for lakehouse project."
+     
+"Resource group created for lakehouse project."
+![Image](https://github.com/user-attachments/assets/dfee932b-6e94-45da-a936-7d993c7a609f)
+
 
 ---
 
