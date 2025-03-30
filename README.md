@@ -55,7 +55,6 @@ Before starting, ensure you have the following:
 
 "Azure CLI login and subscription selection"
 
-![Image](https://github.com/user-attachments/assets/8a796af3-30ec-4072-8ecc-0e67a49283f7)
 
 ---
 
@@ -73,7 +72,7 @@ Before starting, ensure you have the following:
      
 "Resource group created for lakehouse project"
 
-![Image](https://github.com/user-attachments/assets/dfee932b-6e94-45da-a936-7d993c7a609f)
+
 
 
 ---
