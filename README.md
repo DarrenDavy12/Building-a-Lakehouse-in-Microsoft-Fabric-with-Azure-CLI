@@ -249,18 +249,6 @@ This project demonstrates a complete lakehouse implementation in Microsoft Fabri
 - Perform complex transformations with Spark.
 - Enable analytics with SQL.
 
-Feel free to explore the code, replicate the setup, or reach out for collaboration!
 
 ---
 
-## Next Steps for You
-1. **Create the GitHub Repo**:
-   - Initialize a repo named `LakehouseProject` and push this README and scripts.
-2. **Take Screenshots**:
-   - Follow the placeholders and capture each step as you execute it.
-3. **Enhance with Comments**:
-   - Add detailed comments in scripts and notebooks for clarity.
-4. **Test Everything**:
-   - Ensure all steps work end-to-end before finalizing.
-
-This README is now polished, detailed, and ready to impress potential employers!
